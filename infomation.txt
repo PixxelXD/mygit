@@ -1,1 +1,3 @@
-Pirapat
+Name: Pirapat
+Address: Bangkok
+Phone: 0801804277
